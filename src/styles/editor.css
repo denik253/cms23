@@ -1,0 +1,10 @@
+.w-md-editor-text-pre > code,
+.w-md-editor-text-input {
+  font-size: 21px !important;
+  line-height: 24px !important;
+}
+
+.w-md-editor-toolbar {
+  background: rgb(255,252,96);
+background: radial-gradient(circle, rgba(255,252,96,1) 50%, rgba(253,255,255,1) 100%);
+}

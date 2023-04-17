@@ -1,0 +1,28 @@
+#addEvents a {
+    margin-top: 20px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ffd000;
+    color: #000;
+    text-decoration: none;
+    border-radius: 7px;
+    border: 3px solid transparent;
+    transition: all .3s;
+}
+#pageEventsList{
+    margin-top: 20px;
+}
+
+
+#addEvents a:hover {
+    border-color: #705c00;
+    box-shadow: 0px 2px 5px rgb(0, 0, 0, .5);
+}
+
+#addEvents a:active {
+    box-shadow: 0px 0px 2px rgb(0, 0, 0, .5);
+    transition: none;
+    transform: translateY(2px);
+}
+
